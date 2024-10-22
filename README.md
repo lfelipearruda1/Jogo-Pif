@@ -3,5 +3,5 @@
 <p align="left">
   João Victor Nunes<br>
   Luiz Felipe Arruda<br>
-  Vinicius Cahu
+  Vinícius Cahu
 </p>
